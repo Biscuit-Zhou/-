@@ -29,7 +29,7 @@
 
 ```bash
     cd GPT-SoVITS-main
-    pip install -r requirements.txt
+    pip install -r requirements_add.txt
 ```
 
 ### 2: 使用
