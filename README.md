@@ -74,4 +74,5 @@ Linux下如果出现键值'中文'报错，在GPT_SoVITS的inference_webui.py文
 
 ## 直接下载使用Conda环境 
 > PyTorch 2.3.0 CUDA 12.1 Python 3.9
+
 链接: https://pan.baidu.com/s/1uaOOxhknKxqaLLQP3HcErw?pwd=eydq 提取码: eydq
